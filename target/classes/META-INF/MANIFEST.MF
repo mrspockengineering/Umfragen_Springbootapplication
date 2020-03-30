@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: first-springboot-project
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Erazer
-Implementation-Vendor-Id: com.in28minutes.springboot
+Implementation-Vendor-Id: com.derpcprofi.springboot
 Build-Jdk: 1.8.0_202
 Implementation-URL: http://projects.spring.io/spring-boot/first-spring
  boot-project/
